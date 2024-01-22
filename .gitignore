@@ -1,0 +1,9 @@
+inat_images/*
+kga_images/*
+test_txt/*
+yolov5/
+yolov5/*
+*.csv
+*.pt
+*.JPG
+.ipynb_checkpoints
